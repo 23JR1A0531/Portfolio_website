@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio repository! This portfolio showcases my projects, technical skills, achievements, certifications, and professional journey as a Computer Science student.
 
-🔗 **Live Portfolio:** https://your-portfolio-link.com
+🔗 **Live Portfolio:** (https://23jr1a0531.github.io/Portfolio_website/)
 
 ---
 
@@ -101,7 +101,7 @@ Open **index.html** in your browser.
 
 If you'd like to connect regarding internship opportunities, full-time roles, collaborations, or have any feedback, feel free to reach out.
 
-- **Portfolio:** https://your-portfolio-link.com
+- **Portfolio:** https://23jr1a0531.github.io/Portfolio_website/
 - **GitHub:** https://github.com/your-username
 - **LinkedIn:** https://linkedin.com/in/your-profile
 - **Email:** your-email@example.com
