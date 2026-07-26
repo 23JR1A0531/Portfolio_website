@@ -102,9 +102,9 @@ Open **index.html** in your browser.
 If you'd like to connect regarding internship opportunities, full-time roles, collaborations, or have any feedback, feel free to reach out.
 
 - **Portfolio:** https://23jr1a0531.github.io/Portfolio_website/
-- **GitHub:** https://github.com/your-username
-- **LinkedIn:** https://linkedin.com/in/your-profile
-- **Email:** your-email@example.com
+- **GitHub:** https://github.com/23JR1A0531
+- **LinkedIn:** https://www.linkedin.com/in/yamuna-karri-467402303/
+- **Email:** yamuna1654@gmail.com
 
 ---
 
