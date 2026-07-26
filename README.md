@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio repository! This portfolio showcases my projects, technical skills, achievements, certifications, and professional journey as a Computer Science student.
 
-🔗 **Live Portfolio:** (https://23jr1a0531.github.io/Portfolio_website/)
+🔗 **Live Portfolio:** https://23jr1a0531.github.io/Portfolio_website/
 
 ---
 
