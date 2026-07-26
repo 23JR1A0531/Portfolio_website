@@ -59,12 +59,6 @@ An IoT and Machine Learning-based prosthetic system designed to provide an affor
 
 ---
 
-## 📸 Portfolio Preview
-
-Add screenshots of your portfolio here.
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -76,24 +70,6 @@ Portfolio/
 ├── script.js
 └── README.md
 ```
-
----
-
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-portfolio.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd your-portfolio
-```
-
-Open **index.html** in your browser.
 
 ---
 
